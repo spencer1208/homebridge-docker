@@ -92,3 +92,5 @@ added debug run command to homebridge.sh
 ###0.17
 added homebridge-tesla
 updated versions
+###0.18
+moved to nodesource/xenial
