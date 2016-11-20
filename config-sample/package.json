@@ -1,4 +1,4 @@
  {  "scripts": {
-    "install": "npm install -g homebridge-synology homebridge-sonos --unsafe-perm"
+    "install": "npm install -g homebridge-hue homebridge-yamaha homebridge-harmonyhub homebridge-netatmo homebridge-synology homebridge-fritz --unsafe-perm"
   }
 }
