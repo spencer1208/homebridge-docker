@@ -22,6 +22,7 @@ homebridge-tesla
 homebridge-yamaha
 homebridge-hue
 homebridge-netatmo
+homebridge-fritz
 
 (and you can extend this list by adding more plugins in the file package.json)
 
@@ -96,3 +97,5 @@ added homebridge-tesla
 updated versions
 ###0.18
 moved to nodesource/xenial
+###0.19
+move all packages tom packages.json
