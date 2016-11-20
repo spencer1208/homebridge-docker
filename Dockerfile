@@ -28,12 +28,12 @@ RUN npm install -g homebridge --unsafe-perm
 
 # depending on your config.json you have to add your modules here!
 #RUN npm install -g homebridge-philipshue --unsafe-perm
-#RUN npm install -g homebridge-hue --unsafe-perm
-#RUN npm install -g homebridge-yamaha --unsafe-perm
-#RUN npm install -g homebridge-harmonyhub --unsafe-perm
-#RUN npm install -g homebridge-netatmo --unsafe-perm
-#RUN npm install -g homebridge-synology --unsafe-perm
-#RUN npm install -g homebridge-fritz --unsafe-perm
+RUN npm install -g homebridge-hue --unsafe-perm
+RUN npm install -g homebridge-yamaha --unsafe-perm
+RUN npm install -g homebridge-harmonyhub --unsafe-perm
+RUN npm install -g homebridge-netatmo --unsafe-perm
+RUN npm install -g homebridge-synology --unsafe-perm
+RUN npm install -g homebridge-fritz --unsafe-perm
 #RUN npm install -g homebridge-tesla --unsafe-perm
 #RUN npm install -g homebridge-mqttswitch --unsafe-perm
 #RUN npm install -g homebridge-edomoticz --unsafe-perm
